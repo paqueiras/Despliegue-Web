@@ -23,5 +23,12 @@ Actuamente estoy estudiando el ciclo de DAW. Me encanta la parte de backend dete
 | **Gestor de Videoclub** | Python, Sql | Completado |
 | **Erp de autoescuelas** | JS, Sql, Css, Html, Python | En desarrollo ya funcional |
 | **Pagina Web de una autoescuela** | Html, Css, Js | En desarrollo [![Preview](https://img.shields.io/badge/Preview-007EC6?style=flat&logo=google-chrome&logoColor=white)](https://abderaprueba.netlify.app/) |
+
+## 📊 Ejemplo de Código (Backend)
+```python
+# Ejemplo rápido de conexión o lógica en Python
+def saludar_daw(nombre):
+    print(f"Bienvenido al entorno de desarrollo web, {nombre}!")
+
 ## Contacto
 [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:fpenbur2402@g.educaand.es)
