@@ -22,4 +22,4 @@ Actuamente estoy estudiando el ciclo de DAW. Me encanta la parte de backend dete
 | :--- | :--- | :--- |
 | **Gestor de Videoclub** | Python, Sql | Completado |
 | **Erp de autoescuelas** | JS, Sql, Css, Html, Python | En desarrollo ya funcional |
-| **Pagina Web de una autoescuela** | Html, Css, Js | En desarrollo [![Preview](https://img.shields.io/badge/Preview-007EC6?style=flat&logo=google-chrome&logoColor=white)]([https://tu-pagina-web.com](https://abderaprueba.netlify.app/)) |
+| **Pagina Web de una autoescuela** | Html, Css, Js | En desarrollo [![Preview](https://img.shields.io/badge/Preview-007EC6?style=flat&logo=google-chrome&logoColor=white)](https://abderaprueba.netlify.app/) |
