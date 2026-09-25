@@ -26,9 +26,8 @@ Actuamente estoy estudiando el ciclo de DAW. Me encanta la parte de backend dete
 
 ## 📊 Ejemplo de Código (Backend)
 ```python
-# Ejemplo rápido de conexión o lógica en Python
-def saludar_daw(nombre):
-    print(f"Bienvenido al entorno de desarrollo web, {nombre}!")
-
+# Ejemplo rápido de codigo en Python
+print("Hello word")
+```
 ## Contacto
 [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:fpenbur2402@g.educaand.es)
